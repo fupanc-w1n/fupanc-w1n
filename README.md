@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fupanc-w1n
 - 👀 I’m interested in web learning
 - 🌱 D0g3成员
-- 💞️ N0wayback战队成员
 - 📫 contactme at QQ：MTU1MTYwNTEwMA==
 
 <!---
